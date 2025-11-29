@@ -3,5 +3,5 @@
 ## 源链接
 ### lm-xiao-fen.github.io
 ```bash
-lm-xiao-fen.github.io
+lm-xiao-fen.github.io/tvbox/tvbox.json
 ```
